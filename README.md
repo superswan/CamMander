@@ -35,4 +35,6 @@ CamMander Exploit Toolkit (CVE_2013_1599)
 (192.168.168.168)# 
 ```
 
+[https://vulmon.com/vulnerabilitydetails?qid=CVE-2013-1599&scoretype=cvssv2]
+
 **_Educational Purposes Only_**
